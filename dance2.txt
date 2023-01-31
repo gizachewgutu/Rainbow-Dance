@@ -1,3 +1,2 @@
-C::
-C
+Edit second day
 Here is the second vi editor open.I am understand how to write 
